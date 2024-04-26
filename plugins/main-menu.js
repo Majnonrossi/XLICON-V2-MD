@@ -17,39 +17,7 @@ import {
   before: `
   「 ${botname} 🎁XMD 」\n
   *%ucpn*
-⍟────────────────⍟
-*REMEMBER THIS BOT IS FOR*
-*EDUCATIONAL PERPOSES*
-⍟────────────────⍟
-*©Salman Ahmand*
-⍟────────────────⍟
-*_Konnichiwa! Its XLICON-MD A_* 
-*_Multi-Device Whatsapp BOT_*
-*_Recoded By Salman Ahmad And Abraham Dwamena_*
-⍟────────────────⍟
-                                    
- ▀▄▀ █░░ █ █▀▀ █▀█ █▄░█  
- █░█ █▄▄ █ █▄▄ █▄█ █░▀█  
-          
- █▀▄▀█ █▀▄
- █░▀░█ █▄▀
- 
-╭─────────────────⦿
-┃    🔰〘 𝙄𝙉𝙁𝙊 〙🔰
-╰┬────────────────⦿
-┌┤
-┃
-┃ *_Founder_*: Salman Ahmad 
-┃ *_Bot Name_*: ${botname}
-┃ *_Mode_*: %mode
-┃ *_HOST_*: kali Linix
-┃ *_Type_*: NodeJs
-┃ *_Baileys_*: Multi Device
-┃ *_Prefix_*: [ *%_p* ]
-┃ *_Uptime_*: %muptime
-┃ *_Database_*:  %totalreg
-┃
-╰──────────────────⦿
+  
 ╭──────────────────⦿
 ┃    🔰〘 𝙐𝙎𝙀𝙍 〙🔰
 ╰┬─────────────────⦿
